@@ -11,8 +11,8 @@ let predefinedValue = [
     Name: "Apple",
     QTY: "5",
     QLT: "Good",
-    Weight: "3g",
-    Cal: "400cal",
+    Weight: "325g",
+    Cal: "95cal",
   },
   {
     img: "./image/bread.png",
@@ -20,15 +20,15 @@ let predefinedValue = [
     QTY: "30",
     QLT: "Bad",
     Weight: "300g",
-    Cal: "300cal",
+    Cal: "264cal",
   },
   {
     img: "./image/burger.png",
     Name: "Burger",
     QTY: "3",
     QLT: "Good",
-    Weight: "33g",
-    Cal: "41200cal",
+    Weight: "500g",
+    Cal: "1230cal",
   },
 
   {
@@ -36,16 +36,16 @@ let predefinedValue = [
     Name: "Carrot",
     QTY: "5",
     QLT: "Good",
-    Weight: "33224g",
-    Cal: "401230cal",
+    Weight: "53g",
+    Cal: "67cal",
   },
   {
     img: "./image/fish.png",
     Name: "Fish",
     QTY: "3",
     QLT: "Good",
-    Weight: "3g",
-    Cal: "300cal",
+    Weight: "300g",
+    Cal: "135cal",
   },
 
   {
@@ -53,8 +53,8 @@ let predefinedValue = [
     Name: "Egg",
     QTY: "7",
     QLT: "Bad",
-    Weight: "3g",
-    Cal: "400cal",
+    Weight: "30g",
+    Cal: "323cal",
   },
 ];
 
