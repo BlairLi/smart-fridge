@@ -11,13 +11,14 @@ const predefinedValue = [
   {
     img: "./img/warning.png",
     type: "eme",
-    msg: "Freezer temperture is abnormal",
+    msg: "Steak has rotten",
   },
   {
     img: "./img/warning.png",
     type: "eme",
-    msg: "Banana has rotten",
+    msg: "Freezer temperture is abnormal",
   },
+
   {
     img: "./img/wifi-disconnect.jpg",
     type: "notib",
@@ -70,7 +71,7 @@ const NotiExpand = (props) => {
           paddingBottom: "2%",
         }}
       >
-        <h1 style={{ position: "relative", left: "-35%", top: "1.5%" }}>
+        <h1 style={{ position: "relative", left: "-36%", top: "1.5%" }}>
           Notification
         </h1>
 

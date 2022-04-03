@@ -1,7 +1,7 @@
 import classes from "../../Active.module.css";
 import food1 from "../../recipe1.jpg";
 import food2 from "../../salad.png";
-import food3 from "../../banana.png";
+import food3 from "../../banana.jpg";
 
 const FoodRec = (props) => {
   return (
@@ -22,7 +22,7 @@ const FoodRec = (props) => {
         <img src={food2} className={classes.foodImage} />
       </div>
       <div className={classes.foodRe}>
-        <img src={food3} className={classes.foodImage} />
+        <img src={food3} className={classes.foodImage3} />
       </div>
     </div>
   );
