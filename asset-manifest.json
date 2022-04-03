@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smart-fridge/static/css/main.ad2aba67.css",
-    "main.js": "/smart-fridge/static/js/main.5f530490.js",
+    "main.css": "/smart-fridge/static/css/main.f5c98ca3.css",
+    "main.js": "/smart-fridge/static/js/main.0f67b027.js",
     "static/js/845.28b230ed.chunk.js": "/smart-fridge/static/js/845.28b230ed.chunk.js",
     "static/media/salad.png": "/smart-fridge/static/media/salad.869fcba0cd271df04524.png",
     "static/media/sunset-horizon-clean-sky-nature.png": "/smart-fridge/static/media/sunset-horizon-clean-sky-nature.793ba8343279a2074292.png",
@@ -16,7 +16,7 @@
     "static/media/warning.png": "/smart-fridge/static/media/warning.5cdad3295b61a3141d40.png",
     "static/media/R.png": "/smart-fridge/static/media/R.e96b48fe33c311fe800e.png",
     "static/media/F.png": "/smart-fridge/static/media/F.91e43deb28f12742ff26.png",
-    "static/media/wifilogo.png": "/smart-fridge/static/media/wifilogo.57bcf636bf6cabdc8e5a.png",
+    "static/media/wifiLogo.png": "/smart-fridge/static/media/wifiLogo.57bcf636bf6cabdc8e5a.png",
     "static/media/soundEffect.mp3": "/smart-fridge/static/media/soundEffect.96227fa0860061375293.mp3",
     "static/media/step3.png": "/smart-fridge/static/media/step3.3f333658f3b847634930.png",
     "static/media/step2.png": "/smart-fridge/static/media/step2.d98a375647e612dc2600.png",
@@ -34,12 +34,12 @@
     "static/media/homepage.png": "/smart-fridge/static/media/homepage.fe2991215289ac11cb2f.png",
     "static/media/setting.svg": "/smart-fridge/static/media/setting.db0ebe953158b583f039a26a8cd87113.svg",
     "index.html": "/smart-fridge/index.html",
-    "main.ad2aba67.css.map": "/smart-fridge/static/css/main.ad2aba67.css.map",
-    "main.5f530490.js.map": "/smart-fridge/static/js/main.5f530490.js.map",
+    "main.f5c98ca3.css.map": "/smart-fridge/static/css/main.f5c98ca3.css.map",
+    "main.0f67b027.js.map": "/smart-fridge/static/js/main.0f67b027.js.map",
     "845.28b230ed.chunk.js.map": "/smart-fridge/static/js/845.28b230ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad2aba67.css",
-    "static/js/main.5f530490.js"
+    "static/css/main.f5c98ca3.css",
+    "static/js/main.0f67b027.js"
   ]
 }
