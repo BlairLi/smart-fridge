@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smart-fridge/static/css/main.00411767.css",
-    "main.js": "/smart-fridge/static/js/main.e866fe0f.js",
+    "main.js": "/smart-fridge/static/js/main.f6ea6df8.js",
     "static/js/845.28b230ed.chunk.js": "/smart-fridge/static/js/845.28b230ed.chunk.js",
     "static/media/salad.png": "/smart-fridge/static/media/salad.869fcba0cd271df04524.png",
     "static/media/sunset-horizon-clean-sky-nature.png": "/smart-fridge/static/media/sunset-horizon-clean-sky-nature.793ba8343279a2074292.png",
@@ -35,11 +35,11 @@
     "static/media/setting.svg": "/smart-fridge/static/media/setting.db0ebe953158b583f039a26a8cd87113.svg",
     "index.html": "/smart-fridge/index.html",
     "main.00411767.css.map": "/smart-fridge/static/css/main.00411767.css.map",
-    "main.e866fe0f.js.map": "/smart-fridge/static/js/main.e866fe0f.js.map",
+    "main.f6ea6df8.js.map": "/smart-fridge/static/js/main.f6ea6df8.js.map",
     "845.28b230ed.chunk.js.map": "/smart-fridge/static/js/845.28b230ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00411767.css",
-    "static/js/main.e866fe0f.js"
+    "static/js/main.f6ea6df8.js"
   ]
 }
