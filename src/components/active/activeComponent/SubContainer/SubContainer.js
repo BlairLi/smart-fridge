@@ -173,6 +173,9 @@ const SubContainer = (props) => {
               </tr>
             </table>
           </div> */}
+          <h4 className={classes.boxSubText}>
+            Write or draw anything you want on it!
+          </h4>
           <img
             className={classes.shoppingListImg}
             src={require(`../img/${shoppingList}`)}
